@@ -1,5 +1,5 @@
 # adminui365
-#npm install 
+### 'npm install' 
 to instal the neccesary depenecy
 #npm start
 to start the server
